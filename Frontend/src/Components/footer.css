@@ -1,0 +1,29 @@
+.footer {
+    background-color: #7e5170;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-content p {
+    margin: 5px 0;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .footer-content p:first-child {
+    font-weight: bold;
+  }
+  
+  .footer-content p:nth-child(2) {
+    font-size: 14px;
+    color: #cccccc;
+  }
+  
+  .links a{
+    text-decoration:none;
+    color:white;
+  }
